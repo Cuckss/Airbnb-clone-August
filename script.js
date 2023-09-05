@@ -121,5 +121,6 @@ function isRareFind(data){
         str="Rare Find";
     }
     return str;
+    //efu
 }
 
